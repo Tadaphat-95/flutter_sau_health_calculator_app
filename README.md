@@ -7,6 +7,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="300" alt="localhost_9031_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/5d6ee8b7-4c1c-4610-a382-ab821f0a5044" /></kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd><img width="1290" height="2796" alt="localhost_9031_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/027ca661-0baf-4696-96bf-59904d652420" /></kbd>
+<kbd><img width="300" alt="localhost_9031_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/027ca661-0baf-4696-96bf-59904d652420" /></kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd><img width="1290" height="2796" alt="localhost_9031_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/981ffd25-97a0-4e85-90b3-4e228a4e25f7" /></kbd>
+<kbd><img width="300" alt="localhost_9031_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/981ffd25-97a0-4e85-90b3-4e228a4e25f7" /></kbd>
